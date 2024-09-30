@@ -20,7 +20,6 @@
 
 ![image](https://github.com/rahulsahay19/Blog-Images/assets/3886381/4f8853a2-a65c-418d-968e-3870392e277d)
 
-
 ![image](https://github.com/rahulsahay19/Blog-Images/assets/3886381/ca65abd2-c58b-480d-a4b8-9f4707a11df1)
 
 ![image](https://github.com/rahulsahay19/Blog-Images/assets/3886381/568578a3-df7d-4aa8-93b7-0781e9ff0633)
@@ -30,4 +29,3 @@
 ![image](https://github.com/rahulsahay19/Blog-Images/assets/3886381/9c83b0cf-1552-42e1-bdfd-b9354704e801)
 
 ![image](https://github.com/rahulsahay19/Blog-Images/assets/3886381/aea25748-d100-42f3-a9f9-3eae8b0a53e2)
-
